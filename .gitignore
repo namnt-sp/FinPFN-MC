@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.ckpt
+*.pt
+~$*
+code/FinPFN/
+Data/baostock/gia/
+Data/*.parquet
+Data/vn100_2017_2024.csv
+Data/vn100_sach.csv
+*.docx
+*.xlsx
