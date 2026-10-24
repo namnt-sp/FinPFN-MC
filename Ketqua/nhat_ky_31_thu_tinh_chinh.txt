@@ -1,0 +1,14 @@
+
+===== M1 =====
+So cot: 10 | ngay huan luyen: 731 | ngay kiem dinh: 244
+Khoi tao TabPFN, 20 ngay 2020: val loss 1.4256 | IC -0.0240 | 0.17 giay/ngay
+batch 64, tich luy 2: ~2.4 giay/buoc | GPU toi da 0.69 GB
+  -> uoc tinh 1 epoch (100 buoc + kiem dinh ca 2020): 0.08 gio tren GTX 1060
+
+===== FinPFN-MC =====
+So cot: 12 | ngay huan luyen: 731 | ngay kiem dinh: 244
+Khoi tao TabPFN, 20 ngay 2020: val loss 1.4236 | IC -0.0222 | 0.12 giay/ngay
+batch 64, tich luy 2: ~2.5 giay/buoc | GPU toi da 0.69 GB
+  -> uoc tinh 1 epoch (100 buoc + kiem dinh ca 2020): 0.08 gio tren GTX 1060
+
+Xong buoc 4a. Gui toan bo noi dung tren (cung luu o Ketqua/nhat_ky_31_thu_tinh_chinh.txt).

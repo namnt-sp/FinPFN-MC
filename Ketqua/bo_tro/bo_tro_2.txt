@@ -1,0 +1,12 @@
+=== (5) MUC PHU THUOC DAC TRUNG (do nhay che, thay SHAP) ===
+VN 2019-2024 | M1 (150 ngay mau): rev1/rev5 = 0.96 | ty trong: rev5 15.3%, vol20 15.0%, rev1 14.6%, co_bien_do 11.9%, mom60 11.4%, mom20 9.6%, dist_hi20 8.3%, kurt20 5.3%, skew20 5.1%, ty_le_r0 3.5%
+VN 2019-2024 | FinPFN-MC (150 ngay mau): rev1/rev5 = 1.09 | ty trong: vol20 13.8%, mom60 11.1%, rev1 10.1%, lgbm 9.6%, ridge 9.4%, rev5 9.3%, dist_hi20 8.4%, mom20 8.2%, co_bien_do 8.2%, kurt20 4.8%, skew20 3.9%, ty_le_r0 3.1%
+CSI 500 5/2023-6/2026 | M1 (153 ngay mau): rev1/rev5 = 1.05 | ty trong: rev1 16.9%, rev5 16.1%, vol20 15.1%, mom60 12.8%, mom20 9.9%, dist_hi20 8.2%, co_bien_do 6.7%, kurt20 6.1%, skew20 5.1%, ty_le_r0 3.2%
+CSI 500 5/2023-6/2026 | FinPFN-MC (153 ngay mau): rev1/rev5 = 1.05 | ty trong: vol20 12.9%, mom60 11.3%, rev1 10.6%, lgbm 10.4%, ridge 10.1%, rev5 10.1%, mom20 8.6%, dist_hi20 8.6%, co_bien_do 5.1%, kurt20 4.8%, skew20 4.0%, ty_le_r0 3.4%
+
+=== (6) MO HINH NEN HOC TREN CSI 500, AP DUNG CHO VN ===
+IC TB tren VN 2019-2024: MC_nenCSI 0.0581, Ridge_CSI 0.0565, LGBM_CSI 0.0510, MC 0.0667, Ridge 0.0421, LGBM 0.0569, M1 0.0467
+MC (nen VN) - MC (nen CSI) = +0.0086 (t 3.17)
+MC (nen CSI) - M1 = +0.0115 (t 4.49)
+
+Luu: ..\Ketqua\bo_tro

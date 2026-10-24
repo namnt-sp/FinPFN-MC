@@ -1,0 +1,75 @@
+{
+  "thoi_diem_khoa": "2026-10-20T16:13:02",
+  "cau_hinh_chon": {
+    "mo_hinh": "FinPFN-MC",
+    "K_phan_hoach": 20,
+    "co_nhom_suy_luan": 50,
+    "co_nhom_tinh_chinh": [
+      30,
+      60
+    ],
+    "cot_xep_chong": [
+      "ridge",
+      "lgbm"
+    ],
+    "dynamic_stack": false,
+    "du_bao_diem": "trung vi",
+    "suy_luan": "lan truyen thuan truc tiep, thu tu cot co dinh"
+  },
+  "doi_chung": {
+    "M1": "FinPFN goc tu tinh chinh, K=1, nhom 50",
+    "M1+K": "M1, K=20",
+    "Tron deu (chinh, dat truoc)": "hang trung binh cua M1 (K=1), Ridge, LGBM - doi chung chinh cua H1b",
+    "Tron phu (kiem tra do ben)": "hang trung binh cua M1+K (K=20), Ridge, LGBM - chi bao cao, KHONG doi tieu chi",
+    "Tron IC 60n": "trong so = IC TB 60 ngay truoc (khong am), <20 ngay -> deu",
+    "Ridge, LGBM": "cua so mo rong, hoc lai dau moi thang"
+  },
+  "vong_thu_2021": {
+    "IC": {
+      "M1": 0.059,
+      "M1+K": 0.0656,
+      "MC_K1": 0.0686,
+      "MC_K20": 0.0729,
+      "MC_K50": 0.0736,
+      "Ridge": 0.0609,
+      "LGBM": 0.0582,
+      "Tron deu": 0.0673,
+      "Tron IC 60n": 0.0672
+    },
+    "on_dinh": {
+      "M1": 0.265,
+      "MC_K20": 0.327
+    },
+    "tieu_chi": "MC_K20: -M1 = +0.0138 (t 6.29); -Tron deu = +0.0055 (t 1.62) -> QUA",
+    "so_bien_the_da_thu": 3,
+    "bien_the": [
+      "MC K=1",
+      "MC K=20",
+      "MC K=50"
+    ],
+    "MC_v2": "khong tinh chinh (MC K=20 da qua tieu chi khoa, theo quy tac dat truoc)",
+    "chon_K": "K=20 phien ban chinh (K=50 chi hon +0.0007 < nguong 0.002, chi phi suy luan x2.5); K=50 la kiem tra do ben"
+  },
+  "kiem_dinh": {
+    "H1": "CSI 5/2023-6/2026, vu tru 100 ma, 10 phan hoach x 5 vu tru/ngay, hat giong co dinh; chenh lech IC MC - M1 theo ngay; Newey-West do tre 5; p < 0.05 hai phia",
+    "H1b": "nhu H1; can duoi KTC 95% mot phia cua (MC - Tron deu chinh) > -0.005",
+    "kiem_tra_do_ben": [
+      "MC - Tron phu (M1+K, Ridge, LGBM): cung cach tinh nhu H1b; bao cao minh bach, khong thay tieu chi chinh",
+      "MC_K50 thay MC_K20: bao cao IC va chenh lech so voi K20"
+    ],
+    "lap_lai": "CSI 300, cung cau hinh, cung giai doan"
+  },
+  "dau_van_tay_sha256": {
+    "mo_hinh_M1": "462cfb2e5288d7c3db2b1ed38d86921ed513f24fe8056b88fa1aba19db3731e4",
+    "mo_hinh_FinPFN_MC": "ff4aa1fc166f7c22086d26983ae4956149710f7ce658755eca618f51a0e3f29c",
+    "dac_trung_csi500": "cb9e78ba4beb69b11bcf8395f6554786fed6bf8567c26810f29224129e4e77d4",
+    "dac_trung_csi300": "e42d3ce0278b284d2f4024c130a10dd9478daf6086b13c03301fd53292294d1a",
+    "dac_trung_vn100": "1119f25d6427457e901be0056a29aed4dec03bb599044e45d2c0ecf3c4c335e9",
+    "nen_csi500": "fa928256e4c2225bb8e3477075f0fa62ab19717b4e85f99f7c936780746c91f7",
+    "nen_csi300": "6beedace887ceda99613fac4230b8cb1a7102f5cde2d3c3db75ad79794e90b52",
+    "nen_vn100": "9ced6e126cc47ee55d6d04ea0703f1cfcb6a06ce0c4af6f0a61b250366ef8c14",
+    "code_finpfn_mc": "9905c7324c72f23800cfebdad59f1906d0c18f5dce2fd0888cb139560e1292c6",
+    "code_dac_trung": "c3f81f465b1b6034b2580528602c910692868d345542ecda5406337677a1b5ab",
+    "code_mo_hinh_nen": "bf04a2ee7afc222b4d69c746d4dcb27a5c3f08bd7693c0f0633fb44162e7028e"
+  }
+}

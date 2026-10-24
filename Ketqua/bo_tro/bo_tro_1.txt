@@ -1,0 +1,36 @@
+=== (1) NGAY BIEN DONG CAO (bo tro) ===
+VN 2019-2024: 243 ngay bien dong cao / 1499
+                   M1      MC   Ridge    LGBM  Tron chinh
+cao                                                      
+Binh thuong    0.0414  0.0609  0.0363  0.0506      0.0607
+Bien dong cao  0.0741  0.0970  0.0722  0.0899      0.0996
+  Trong ngay bien dong cao: MC - M1 = +0.0229 (t 2.70, n 243) | MC - Tron chinh = -0.0026 (t -0.28, n 243)
+
+CSI 500 5/2023-6/2026 (vu tru 100 ma): 62 ngay bien dong cao / 765
+                   M1      MC   Ridge    LGBM  Tron chinh
+cao                                                      
+Binh thuong    0.0349  0.0441  0.0387  0.0426      0.0429
+Bien dong cao  0.1303  0.1367  0.0754  0.0741      0.1162
+  Trong ngay bien dong cao: MC - M1 = +0.0064 (t 0.62, n 62) | MC - Tron chinh = +0.0205 (t 2.28, n 62)
+
+=== (2) THIEN LECH SONG SOT: chi ma co du lieu tu 3/1/2017 (bo tro) ===
+So ma: 61 / 100
+IC TB: M1 0.0502, MC 0.0691, Ridge 0.0403, LGBM 0.0597, Tron chinh 0.0689
+H2 tren tap song sot: (a) IC MC - M1 = +0.0189 (t 5.36, n 1499) | (b) on dinh MC - M1 = +0.1738 (t 24.46, n 1499)
+H3 tren tap song sot: C - A = +0.078%/tuan (p 0.1967) | D - A = +0.081% (p 0.0258) | C - D = -0.003% (p 0.9575)
+
+=== (3) CSI 500 1/2022-4/2023: M1 vs MC, ca mat cat (DA TIEP XUC - chi mo ta) ===
+320 ngay | IC M1 0.0508 | IC MC 0.0650 | MC - M1 = +0.0142 (t 5.15, n 320)
+
+=== (4) LOI SUAT VUOT TROI TOP 20% (gop, truoc phi, ngay ke tiep) ===
+VN 2019-2024:
+  M1          vuot troi +0.100%/ngay (~+25.1%/nam, t 5.81) | IC 0.0467
+  MC          vuot troi +0.168%/ngay (~+42.5%/nam, t 9.04) | IC 0.0667
+  Ridge       vuot troi +0.167%/ngay (~+42.0%/nam, t 8.70) | IC 0.0421
+  LGBM        vuot troi +0.219%/ngay (~+55.2%/nam, t 12.92) | IC 0.0569
+  Tron chinh  vuot troi +0.200%/ngay (~+50.5%/nam, t 11.01) | IC 0.0670
+CSI 500 5/2023-6/2026 (ca mat cat):
+  M1          vuot troi +0.070%/ngay (~+17.6%/nam, t 3.93) | IC 0.0423
+  MC          vuot troi +0.081%/ngay (~+20.4%/nam, t 4.47) | IC 0.0526
+
+Luu: ..\Ketqua\bo_tro

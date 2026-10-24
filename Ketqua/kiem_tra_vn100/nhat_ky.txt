@@ -1,0 +1,59 @@
+=== VN-100 | dau van tay khop cau hinh khoa (2026-10-20T16:13:02) ===
+1500 ngay | thiet bi cuda
+  100/1500 ngay | 1.0 phut
+  200/1500 ngay | 2.2 phut
+  300/1500 ngay | 3.5 phut
+  400/1500 ngay | 4.6 phut
+  500/1500 ngay | 5.8 phut
+  600/1500 ngay | 7.1 phut
+  700/1500 ngay | 8.4 phut
+  800/1500 ngay | 9.7 phut
+  900/1500 ngay | 11.1 phut
+  1000/1500 ngay | 12.5 phut
+  1100/1500 ngay | 14.0 phut
+  1200/1500 ngay | 15.3 phut
+  1300/1500 ngay | 16.6 phut
+  1400/1500 ngay | 17.9 phut
+  1500/1500 ngay | 19.2 phut
+
+1499 ngay, TB 93 ma/ngay
+Mo hinh        IC TB     IR  t(NW)
+M1            0.0467  0.262  10.01
+M1+K          0.0519  0.275  10.80
+MC_K1         0.0591  0.343  13.01
+MC            0.0667  0.371  14.10
+Ridge         0.0421  0.215   8.31
+LGBM          0.0569  0.389  14.50
+Tron chinh    0.0670  0.384  14.44
+Tron phu      0.0690  0.392  14.79
+Tron IC 60n   0.0655  0.391  14.64
+Do on dinh TB: M1 0.239, MC 0.412, Ridge 0.661, LGBM 0.229, Tron chinh 0.437
+
+=== H2 (giao-hop: ca (a) va (b) phai dat) ===
+(a) IC       MC - M1 = +0.0200 | SE 0.0032 | t 6.22 | p 4.859e-10 | DAT
+(b) On dinh  MC - M1 = +0.1734 | SE 0.0066 | t 26.10 | p 0 | DAT
+==> H2: UNG HO
+Mo ta: MC - Tron chinh = -0.0003 | can duoi KTC95% mot phia -0.0052
+Mo ta: MC - Tron phu = -0.0023 | can duoi KTC95% mot phia -0.0070
+
+=== H1c lap lai (VN) ===
+b = -0.0936 | t -0.78 | p 0.4348 | KHONG UNG HO H1c
+
+Theo nam (IC TB):
+          M1      MC  Tron chinh
+date                            
+2019  0.0306  0.0518      0.0576
+2020  0.0584  0.0837      0.0831
+2021  0.0100  0.0514      0.0697
+2022  0.0610  0.0692      0.0689
+2023  0.0612  0.0751      0.0661
+2024  0.0591  0.0690      0.0565
+Theo nam (on dinh):
+         M1     MC
+date              
+2019  0.209  0.486
+2020  0.242  0.431
+2021  0.265  0.412
+2022  0.185  0.294
+2023  0.238  0.404
+2024  0.294  0.446

@@ -1,0 +1,103 @@
+== M1 | cot: ['rev1', 'rev5', 'mom20', 'mom60', 'vol20', 'dist_hi20', 'skew20', 'kurt20', 'co_bien_do', 'ty_le_r0'] | co nhom (50, 50) | 731 ngay HL, 243 ngay KD ==
+epoch 0 | val loss 1.41632 | val IC -0.0126
+epoch 1 | train 1.30887 | val loss 1.26867 | val IC -0.0082 *BEST* | 0.14 gio
+epoch 2 | train 1.27112 | val loss 1.25047 | val IC 0.0163 *BEST* | 0.30 gio
+epoch 3 | train 1.26007 | val loss 1.24313 | val IC 0.0285 *BEST* | 0.46 gio
+epoch 4 | train 1.25831 | val loss 1.23929 | val IC 0.0356 *BEST* | 0.63 gio
+epoch 5 | train 1.25518 | val loss 1.23651 | val IC 0.0398 *BEST* | 0.79 gio
+epoch 6 | train 1.25469 | val loss 1.23430 | val IC 0.0419 *BEST* | 0.96 gio
+epoch 7 | train 1.25049 | val loss 1.23276 | val IC 0.0418 *BEST* | 1.12 gio
+epoch 8 | train 1.25158 | val loss 1.23148 | val IC 0.0422 *BEST* | 1.29 gio
+epoch 9 | train 1.25012 | val loss 1.23067 | val IC 0.0420 *BEST* | 1.45 gio
+epoch 10 | train 1.24633 | val loss 1.22984 | val IC 0.0422 *BEST* | 1.62 gio
+epoch 11 | train 1.24459 | val loss 1.22922 | val IC 0.0416 *BEST* | 1.78 gio
+epoch 12 | train 1.24626 | val loss 1.22850 | val IC 0.0417 *BEST* | 1.95 gio
+epoch 13 | train 1.24356 | val loss 1.22794 | val IC 0.0422 *BEST* | 2.11 gio
+epoch 14 | train 1.24556 | val loss 1.22733 | val IC 0.0426 *BEST* | 2.28 gio
+epoch 15 | train 1.24295 | val loss 1.22700 | val IC 0.0430 *BEST* | 2.44 gio
+epoch 16 | train 1.24428 | val loss 1.22661 | val IC 0.0436 *BEST* | 2.61 gio
+epoch 17 | train 1.24093 | val loss 1.22618 | val IC 0.0436 *BEST* | 2.78 gio
+epoch 18 | train 1.24392 | val loss 1.22583 | val IC 0.0437 *BEST* | 2.94 gio
+epoch 19 | train 1.24224 | val loss 1.22563 | val IC 0.0442 *BEST* | 3.11 gio
+epoch 20 | train 1.24344 | val loss 1.22538 | val IC 0.0444 *BEST* | 3.27 gio
+epoch 21 | train 1.24225 | val loss 1.22506 | val IC 0.0450 *BEST* | 3.44 gio
+epoch 22 | train 1.24220 | val loss 1.22480 | val IC 0.0456 *BEST* | 3.61 gio
+epoch 23 | train 1.24047 | val loss 1.22453 | val IC 0.0460 *BEST* | 3.77 gio
+epoch 24 | train 1.24023 | val loss 1.22432 | val IC 0.0466 *BEST* | 3.94 gio
+epoch 25 | train 1.23945 | val loss 1.22409 | val IC 0.0471 *BEST* | 4.10 gio
+epoch 26 | train 1.24133 | val loss 1.22394 | val IC 0.0475 *BEST* | 4.27 gio
+epoch 27 | train 1.24109 | val loss 1.22391 | val IC 0.0481 *BEST* | 4.44 gio
+epoch 28 | train 1.23794 | val loss 1.22371 | val IC 0.0486 *BEST* | 4.60 gio
+epoch 29 | train 1.24030 | val loss 1.22347 | val IC 0.0490 *BEST* | 4.77 gio
+epoch 30 | train 1.23870 | val loss 1.22336 | val IC 0.0495 *BEST* | 4.93 gio
+epoch 31 | train 1.23794 | val loss 1.22322 | val IC 0.0501 *BEST* | 5.10 gio
+epoch 32 | train 1.23993 | val loss 1.22307 | val IC 0.0506 *BEST* | 5.26 gio
+epoch 33 | train 1.23652 | val loss 1.22285 | val IC 0.0510 *BEST* | 5.43 gio
+epoch 34 | train 1.23884 | val loss 1.22270 | val IC 0.0514 *BEST* | 5.60 gio
+epoch 35 | train 1.23573 | val loss 1.22264 | val IC 0.0520 *BEST* | 5.76 gio
+epoch 36 | train 1.23689 | val loss 1.22259 | val IC 0.0525 *BEST* | 5.93 gio
+epoch 37 | train 1.23594 | val loss 1.22254 | val IC 0.0531 *BEST* | 6.09 gio
+epoch 38 | train 1.23847 | val loss 1.22247 | val IC 0.0536 *BEST* | 6.26 gio
+epoch 39 | train 1.23647 | val loss 1.22240 | val IC 0.0541 *BEST* | 6.42 gio
+epoch 40 | train 1.23602 | val loss 1.22225 | val IC 0.0545 *BEST* | 6.59 gio
+epoch 41 | train 1.23659 | val loss 1.22214 | val IC 0.0548 *BEST* | 6.75 gio
+epoch 42 | train 1.23505 | val loss 1.22212 | val IC 0.0552 *BEST* | 6.92 gio
+epoch 43 | train 1.23154 | val loss 1.22201 | val IC 0.0555 *BEST* | 7.08 gio
+epoch 44 | train 1.23399 | val loss 1.22190 | val IC 0.0557 *BEST* | 7.25 gio
+epoch 45 | train 1.23166 | val loss 1.22178 | val IC 0.0561 *BEST* | 7.42 gio
+epoch 46 | train 1.23554 | val loss 1.22171 | val IC 0.0564 *BEST* | 7.58 gio
+epoch 47 | train 1.23269 | val loss 1.22165 | val IC 0.0567 *BEST* | 7.75 gio
+epoch 48 | train 1.23560 | val loss 1.22171 | val IC 0.0571 | 7.92 gio
+epoch 49 | train 1.23212 | val loss 1.22174 | val IC 0.0574 | 8.09 gio
+epoch 50 | train 1.23271 | val loss 1.22178 | val IC 0.0577 | 8.25 gio
+epoch 51 | train 1.23628 | val loss 1.22182 | val IC 0.0580 | 8.42 gio
+epoch 52 | train 1.23309 | val loss 1.22181 | val IC 0.0582 | 8.59 gio
+epoch 53 | train 1.23396 | val loss 1.22178 | val IC 0.0584 | 8.75 gio
+epoch 54 | train 1.23195 | val loss 1.22172 | val IC 0.0586 | 8.92 gio
+epoch 55 | train 1.23390 | val loss 1.22165 | val IC 0.0588 | 9.09 gio
+epoch 56 | train 1.23522 | val loss 1.22158 | val IC 0.0590 *BEST* | 9.26 gio
+epoch 57 | train 1.23543 | val loss 1.22162 | val IC 0.0593 | 9.42 gio
+epoch 58 | train 1.23564 | val loss 1.22163 | val IC 0.0596 | 9.59 gio
+epoch 59 | train 1.22836 | val loss 1.22162 | val IC 0.0598 | 9.76 gio
+epoch 60 | train 1.23401 | val loss 1.22157 | val IC 0.0600 *BEST* | 9.93 gio
+epoch 61 | train 1.23110 | val loss 1.22156 | val IC 0.0602 *BEST* | 10.09 gio
+epoch 62 | train 1.23467 | val loss 1.22153 | val IC 0.0605 *BEST* | 10.26 gio
+epoch 63 | train 1.23084 | val loss 1.22150 | val IC 0.0608 *BEST* | 10.43 gio
+epoch 64 | train 1.23052 | val loss 1.22144 | val IC 0.0609 *BEST* | 10.60 gio
+epoch 65 | train 1.23419 | val loss 1.22144 | val IC 0.0609 *BEST* | 10.77 gio
+epoch 66 | train 1.23201 | val loss 1.22138 | val IC 0.0609 *BEST* | 10.94 gio
+epoch 67 | train 1.22865 | val loss 1.22140 | val IC 0.0610 | 11.11 gio
+epoch 68 | train 1.23237 | val loss 1.22139 | val IC 0.0611 | 11.28 gio
+epoch 69 | train 1.23436 | val loss 1.22137 | val IC 0.0611 *BEST* | 11.45 gio
+epoch 70 | train 1.23035 | val loss 1.22131 | val IC 0.0611 *BEST* | 11.63 gio
+epoch 71 | train 1.22874 | val loss 1.22127 | val IC 0.0611 *BEST* | 11.80 gio
+epoch 72 | train 1.23033 | val loss 1.22125 | val IC 0.0611 *BEST* | 11.98 gio
+epoch 73 | train 1.23030 | val loss 1.22119 | val IC 0.0612 *BEST* | 12.15 gio
+epoch 74 | train 1.22957 | val loss 1.22112 | val IC 0.0612 *BEST* | 12.33 gio
+epoch 75 | train 1.22851 | val loss 1.22113 | val IC 0.0613 | 12.51 gio
+epoch 76 | train 1.22756 | val loss 1.22109 | val IC 0.0614 *BEST* | 12.69 gio
+epoch 77 | train 1.23138 | val loss 1.22108 | val IC 0.0614 *BEST* | 12.87 gio
+epoch 78 | train 1.23060 | val loss 1.22106 | val IC 0.0615 *BEST* | 13.05 gio
+epoch 79 | train 1.23043 | val loss 1.22107 | val IC 0.0617 | 13.22 gio
+epoch 80 | train 1.22833 | val loss 1.22104 | val IC 0.0618 *BEST* | 13.40 gio
+epoch 81 | train 1.22723 | val loss 1.22109 | val IC 0.0619 | 13.58 gio
+epoch 82 | train 1.22914 | val loss 1.22110 | val IC 0.0619 | 13.76 gio
+epoch 83 | train 1.22755 | val loss 1.22109 | val IC 0.0619 | 13.94 gio
+epoch 84 | train 1.22762 | val loss 1.22106 | val IC 0.0619 | 14.12 gio
+epoch 85 | train 1.22740 | val loss 1.22108 | val IC 0.0621 | 14.29 gio
+epoch 86 | train 1.22818 | val loss 1.22107 | val IC 0.0621 | 14.47 gio
+epoch 87 | train 1.22897 | val loss 1.22105 | val IC 0.0622 | 14.65 gio
+epoch 88 | train 1.22680 | val loss 1.22101 | val IC 0.0623 *BEST* | 14.82 gio
+epoch 89 | train 1.23021 | val loss 1.22105 | val IC 0.0623 | 15.00 gio
+epoch 90 | train 1.22739 | val loss 1.22100 | val IC 0.0623 *BEST* | 15.17 gio
+epoch 91 | train 1.22849 | val loss 1.22103 | val IC 0.0623 | 15.35 gio
+epoch 92 | train 1.22905 | val loss 1.22100 | val IC 0.0623 | 15.52 gio
+epoch 93 | train 1.23032 | val loss 1.22105 | val IC 0.0623 | 15.70 gio
+epoch 94 | train 1.22889 | val loss 1.22104 | val IC 0.0624 | 15.87 gio
+epoch 95 | train 1.22836 | val loss 1.22097 | val IC 0.0624 *BEST* | 16.05 gio
+epoch 96 | train 1.22694 | val loss 1.22099 | val IC 0.0624 | 16.22 gio
+epoch 97 | train 1.22854 | val loss 1.22089 | val IC 0.0624 *BEST* | 16.40 gio
+epoch 98 | train 1.22719 | val loss 1.22090 | val IC 0.0625 | 16.57 gio
+epoch 99 | train 1.22866 | val loss 1.22091 | val IC 0.0625 | 16.75 gio
+epoch 100 | train 1.22679 | val loss 1.22094 | val IC 0.0625 | 16.89 gio
+XONG M1: best val loss 1.22089 | val IC 2020 0.0624 | 100 epoch | luu m1_best.ckpt

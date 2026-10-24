@@ -1,0 +1,45 @@
+Vong thu CSI 2021: 243 ngay | 2x5 vu tru 100 ma/ngay | thiet bi cuda
+  10/243 ngay | 2.6 phut
+  20/243 ngay | 5.2 phut
+  30/243 ngay | 8.3 phut
+  40/243 ngay | 11.1 phut
+  50/243 ngay | 14.3 phut
+  60/243 ngay | 17.0 phut
+  70/243 ngay | 20.2 phut
+  80/243 ngay | 23.2 phut
+  90/243 ngay | 26.1 phut
+  100/243 ngay | 29.2 phut
+  110/243 ngay | 32.1 phut
+  120/243 ngay | 35.2 phut
+  130/243 ngay | 38.0 phut
+  140/243 ngay | 40.9 phut
+  150/243 ngay | 43.9 phut
+  160/243 ngay | 46.7 phut
+  170/243 ngay | 49.4 phut
+  180/243 ngay | 52.1 phut
+  190/243 ngay | 54.7 phut
+  200/243 ngay | 57.5 phut
+  210/243 ngay | 60.7 phut
+  220/243 ngay | 63.8 phut
+  230/243 ngay | 66.5 phut
+  240/243 ngay | 69.2 phut
+
+Mo hinh        IC TB     IR  t(NW)
+M1            0.0590  0.492   8.31
+M1+K          0.0656  0.506   8.89
+MC_K1         0.0686  0.562  10.57
+MC_K20        0.0729  0.565  10.90
+MC_K50        0.0736  0.571  11.04
+Ridge         0.0609  0.414   8.05
+LGBM          0.0582  0.437   8.18
+Tron deu      0.0673  0.482   9.47
+Tron IC 60n   0.0672  0.483   9.48
+
+Do on dinh (mat cat): M1 0.265 | FinPFN-MC K=20 0.327
+
+=== TIEU CHI KHOA (de cuong) ===
+MC_K1: - M1 = +0.0095 (t 4.21) DAT | - Tron deu = +0.0012 (t 0.32) DAT  ==> QUA
+MC_K20: - M1 = +0.0138 (t 6.29) DAT | - Tron deu = +0.0055 (t 1.62) DAT  ==> QUA
+MC_K50: - M1 = +0.0146 (t 6.52) DAT | - Tron deu = +0.0063 (t 1.87) DAT  ==> QUA
+
+Tong thoi gian: 70 phut. Ket qua: ..\Ketqua\vong_thu_2021

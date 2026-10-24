@@ -1,0 +1,104 @@
+=== CSI500 | dau van tay khop cau hinh khoa (2026-10-20T16:13:02) ===
+765 ngay kiem tra | da xong 0 | thiet bi cuda
+  2023-05-17 | xong them 10 ngay | con lai ~17.0 gio
+  2023-05-31 | xong them 20 ngay | con lai ~15.9 gio
+  2023-06-14 | xong them 30 ngay | con lai ~15.5 gio
+  2023-06-30 | xong them 40 ngay | con lai ~15.7 gio
+  2023-07-14 | xong them 50 ngay | con lai ~15.8 gio
+  2023-07-28 | xong them 60 ngay | con lai ~15.7 gio
+  2023-08-11 | xong them 70 ngay | con lai ~15.5 gio
+  2023-08-25 | xong them 80 ngay | con lai ~15.5 gio
+  2023-09-08 | xong them 90 ngay | con lai ~15.4 gio
+  2023-09-22 | xong them 100 ngay | con lai ~15.3 gio
+  2023-10-16 | xong them 110 ngay | con lai ~15.2 gio
+  2023-10-30 | xong them 120 ngay | con lai ~15.0 gio
+  2023-11-13 | xong them 130 ngay | con lai ~14.8 gio
+  2023-11-27 | xong them 140 ngay | con lai ~14.6 gio
+  2023-12-11 | xong them 150 ngay | con lai ~14.3 gio
+  2023-12-25 | xong them 160 ngay | con lai ~14.0 gio
+  2024-01-09 | xong them 170 ngay | con lai ~13.8 gio
+  2024-01-23 | xong them 180 ngay | con lai ~13.6 gio
+  2024-02-06 | xong them 190 ngay | con lai ~13.4 gio
+  2024-02-28 | xong them 200 ngay | con lai ~13.2 gio
+  2024-03-13 | xong them 210 ngay | con lai ~12.9 gio
+  2024-03-27 | xong them 220 ngay | con lai ~12.7 gio
+  2024-04-12 | xong them 230 ngay | con lai ~12.5 gio
+  2024-04-26 | xong them 240 ngay | con lai ~12.2 gio
+  2024-05-15 | xong them 250 ngay | con lai ~11.9 gio
+  2024-05-29 | xong them 260 ngay | con lai ~11.7 gio
+  2024-06-13 | xong them 270 ngay | con lai ~11.5 gio
+  2024-06-27 | xong them 280 ngay | con lai ~11.3 gio
+  2024-07-11 | xong them 290 ngay | con lai ~11.0 gio
+  2024-07-25 | xong them 300 ngay | con lai ~10.8 gio
+  2024-08-08 | xong them 310 ngay | con lai ~10.5 gio
+  2024-08-22 | xong them 320 ngay | con lai ~10.3 gio
+  2024-09-05 | xong them 330 ngay | con lai ~10.1 gio
+  2024-09-23 | xong them 340 ngay | con lai ~9.9 gio
+  2024-10-14 | xong them 350 ngay | con lai ~9.6 gio
+  2024-10-28 | xong them 360 ngay | con lai ~9.4 gio
+  2024-11-11 | xong them 370 ngay | con lai ~9.1 gio
+  2024-11-25 | xong them 380 ngay | con lai ~8.9 gio
+  2024-12-09 | xong them 390 ngay | con lai ~8.6 gio
+  2024-12-23 | xong them 400 ngay | con lai ~8.4 gio
+  2025-01-07 | xong them 410 ngay | con lai ~8.2 gio
+  2025-01-21 | xong them 420 ngay | con lai ~7.9 gio
+  2025-02-12 | xong them 430 ngay | con lai ~7.7 gio
+  2025-02-26 | xong them 440 ngay | con lai ~7.4 gio
+  2025-03-12 | xong them 450 ngay | con lai ~7.1 gio
+  2025-03-26 | xong them 460 ngay | con lai ~6.8 gio
+  2025-04-10 | xong them 470 ngay | con lai ~6.5 gio
+  2025-04-24 | xong them 480 ngay | con lai ~6.2 gio
+  2025-05-13 | xong them 490 ngay | con lai ~6.0 gio
+  2025-05-27 | xong them 500 ngay | con lai ~5.7 gio
+  2025-06-11 | xong them 510 ngay | con lai ~5.4 gio
+  2025-06-25 | xong them 520 ngay | con lai ~5.2 gio
+  2025-07-09 | xong them 530 ngay | con lai ~4.9 gio
+  2025-07-23 | xong them 540 ngay | con lai ~4.7 gio
+  2025-08-06 | xong them 550 ngay | con lai ~4.4 gio
+  2025-08-20 | xong them 560 ngay | con lai ~4.2 gio
+  2025-09-03 | xong them 570 ngay | con lai ~3.9 gio
+  2025-09-17 | xong them 580 ngay | con lai ~3.7 gio
+  2025-10-09 | xong them 590 ngay | con lai ~3.5 gio
+  2025-10-23 | xong them 600 ngay | con lai ~3.3 gio
+  2025-11-06 | xong them 610 ngay | con lai ~3.0 gio
+  2025-11-20 | xong them 620 ngay | con lai ~2.8 gio
+  2025-12-04 | xong them 630 ngay | con lai ~2.6 gio
+  2025-12-18 | xong them 640 ngay | con lai ~2.4 gio
+  2026-01-05 | xong them 650 ngay | con lai ~2.2 gio
+  2026-01-19 | xong them 660 ngay | con lai ~2.0 gio
+  2026-02-02 | xong them 670 ngay | con lai ~1.8 gio
+  2026-02-24 | xong them 680 ngay | con lai ~1.6 gio
+  2026-03-10 | xong them 690 ngay | con lai ~1.4 gio
+  2026-03-24 | xong them 700 ngay | con lai ~1.2 gio
+  2026-04-08 | xong them 710 ngay | con lai ~1.0 gio
+  2026-04-22 | xong them 720 ngay | con lai ~0.8 gio
+  2026-05-11 | xong them 730 ngay | con lai ~0.6 gio
+  2026-05-25 | xong them 740 ngay | con lai ~0.5 gio
+  2026-06-08 | xong them 750 ngay | con lai ~0.3 gio
+  2026-06-23 | xong them 760 ngay | con lai ~0.1 gio
+  2026-06-30 | xong them 765 ngay | con lai ~0.0 gio
+
+765 ngay, 46 vu tru/ngay (TB)
+Mo hinh        IC TB     IR  t(NW)
+M1            0.0426  0.292   7.46
+M1+K          0.0460  0.291   7.40
+MC            0.0516  0.350   9.26
+Ridge         0.0417  0.243   6.97
+LGBM          0.0452  0.327   8.98
+Tron chinh    0.0489  0.312   8.54
+Tron phu      0.0495  0.312   8.50
+Tron IC 60n   0.0488  0.321   8.74
+
+H1  MC - M1 = +0.0090 | SE(NW,5) 0.0020 | t 4.52 | p hai phia 6.276e-06 | UNG HO H1
+H1b  MC - Tron chinh = +0.0028 | can duoi KTC95% mot phia -0.0003 | DAT (> -0.005)
+Do ben MC - Tron phu = +0.0022 | can duoi KTC95% mot phia -0.0008 | DAT (> -0.005)
+Do ben K=50 - K=20 (lan chia dau) = +0.0000 (t 0.21)
+Theo nam:
+mo_hinh      M1      MC  Tron chinh
+date                               
+2023     0.0306  0.0377      0.0253
+2024     0.0277  0.0369      0.0341
+2025     0.0674  0.0762      0.0773
+2026     0.0389  0.0507      0.0536
+Do on dinh (mat cat): M1 0.241 | FinPFN-MC 0.306
+Tong thoi gian lan chay nay: 13.7 gio

@@ -1,0 +1,21 @@
+=== CSI500 | 765 ngay | D: TB 0.0222, trung vi 0.0175 ===
+H1c (chinh)  MC - Tron chinh: b = -0.0136 | SE 0.1202 | t -0.11 | p hai phia 0.9098 | KHONG UNG HO H1c
+Do ben       MC - Tron phu: b = -0.0448 | SE 0.1152 | t -0.39 | p hai phia 0.6971 | KHONG UNG HO H1c
+Chenh lech MC - Tron chinh theo tam phan vi D (mo ta):
+          mean  count
+nhom_D               
+D thap  0.0060    255
+D giua  0.0018    255
+D cao   0.0005    255
+
+=== CSI300 | 765 ngay | D: TB 0.0316, trung vi 0.0271 ===
+H1c (chinh)  MC - Tron chinh: b = +0.0387 | SE 0.1881 | t 0.21 | p hai phia 0.8368 | KHONG UNG HO H1c
+Do ben       MC - Tron phu: b = +0.0198 | SE 0.1804 | t 0.11 | p hai phia 0.9127 | KHONG UNG HO H1c
+Chenh lech MC - Tron chinh theo tam phan vi D (mo ta):
+          mean  count
+nhom_D               
+D thap  0.0054    255
+D giua -0.0001    255
+D cao   0.0005    255
+
+Luu: ..\Ketqua\ket_qua_H1c.txt

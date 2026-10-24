@@ -1,0 +1,22 @@
+(1) VN 2019-2024: 350 / 139,527 o loi suat thieu trong khoang niem yet (0.25%)
+(2) VN-100 binh quan deu (chua phi): cach cu LS nam 16.77%, Sharpe 0.829 | cach dung (TB tren ma co du lieu) LS nam 18.46%, Sharpe 0.857
+
+(3) cach goc script 40 (nhan loi suat ngay, o thieu = 0):
+   A: LS rong nam -0.22% | Sharpe 0.127
+   B: LS rong nam +1.64% | Sharpe 0.195
+   C: LS rong nam +8.10% | Sharpe 0.436
+   D: LS rong nam +6.49% | Sharpe 0.376
+   C - A: +0.149%/tuan (p 0.0063)
+   D - A: +0.121%/tuan (p 0.0001)
+   C - D: +0.027%/tuan (p 0.5681)
+
+(3) loi suat tu gia dau-cuoi ky:
+   A: LS rong nam -0.22% | Sharpe 0.127
+   B: LS rong nam +1.64% | Sharpe 0.195
+   C: LS rong nam +8.10% | Sharpe 0.436
+   D: LS rong nam +6.49% | Sharpe 0.376
+   C - A: +0.149%/tuan (p 0.0063)
+   D - A: +0.121%/tuan (p 0.0001)
+   C - D: +0.027%/tuan (p 0.5681)
+
+Luu: ..\Ketqua\kiem_tra_fillna.txt

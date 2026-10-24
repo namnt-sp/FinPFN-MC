@@ -1,0 +1,2 @@
+== M1V | cot: ['rev1', 'rev5', 'mom20', 'mom60', 'vol20', 'dist_hi20', 'skew20', 'kurt20', 'co_bien_do', 'ty_le_r0'] | co nhom (30, 60) | 731 ngay HL, 243 ngay KD ==
+epoch 0 | val loss 1.41632 | val IC -0.0126

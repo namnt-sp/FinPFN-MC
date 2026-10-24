@@ -1,0 +1,29 @@
+=== CSI 500, 2017-2020 (RA QUYET DINH), cua so 20 ===
+  So ngay: 954 | IC TB Ridge 0.0705, LGBM 0.0759
+  Hoi quy dIC_t ~ gate_t: b = +0.288, t(NW) = 2.42 | tuong quan = +0.081
+  gate>0: 389 ngay, dIC TB +0.0036 | gate<=0: 565 ngay, dIC TB -0.0129 | t(NW) chenh lech co dieu kien = 2.08
+  Tuong quan theo nam: 2017: +0.046, 2018: -0.112, 2019: +0.177, 2020: +0.019
+
+  ==> QUY TAC: DAT -> nen train MC-v2
+
+--- Tham khao: cac cua so khac (CSI 2017-2020) ---
+  cua so  5: b +0.162 t  2.07 | r +0.076 | t dieu kien  2.48
+  cua so 10: b +0.219 t  2.18 | r +0.081 | t dieu kien  1.34
+  cua so 60: b +0.163 t  0.83 | r +0.029 | t dieu kien  0.54
+
+--- Tham khao: IC cua dynamic_stack (cua so 20) so voi tron deu Ridge+LGBM, CSI 2017-2020 ---
+  dynamic 0.0825 | tron deu 0.0823 | chenh +0.0002 (t 0.35) | alpha TB 0.48, do lech 0.13
+
+--- Tham khao: CSI 2021 (vong thu) ---
+  So ngay: 243 | IC TB Ridge 0.0620, LGBM 0.0599
+  Hoi quy dIC_t ~ gate_t: b = -0.047, t(NW) = -0.14 | tuong quan = -0.010
+  gate>0: 151 ngay, dIC TB -0.0004 | gate<=0: 92 ngay, dIC TB +0.0063 | t(NW) chenh lech co dieu kien = -0.43
+  Tuong quan theo nam: 2021: -0.010
+
+--- Tham khao: VN 2018 (giai doan phat trien; KHONG cham 2019+) ---
+  So ngay: 214 | IC TB Ridge 0.0415, LGBM 0.0355
+  Hoi quy dIC_t ~ gate_t: b = +0.079, t(NW) = 0.22 | tuong quan = +0.017
+  gate>0: 109 ngay, dIC TB +0.0002 | gate<=0: 105 ngay, dIC TB -0.0026 | t(NW) chenh lech co dieu kien = 0.11
+  Tuong quan theo nam: 2018: +0.017
+
+Luu: ..\Ketqua\kiem_gate
